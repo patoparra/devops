@@ -1,0 +1,13 @@
+{
+  "name": "cucumber_selenium",
+  "version": "1.0.0",
+  "description": "UI Automation Framework using Selenium WebDriver, Cucumber and Java",
+  "main": "index.js",
+  "scripts": {
+  	"report": "node index.js"},
+  "author": "Patricio Parra",
+  "license": "ISC",
+  "dependencies": {
+    "multiple-cucumber-html-reporter": "^1.16.2"
+  }
+}
